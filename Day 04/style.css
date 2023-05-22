@@ -1,0 +1,13 @@
+th{
+    color:rgb(33, 14, 79); font-size: larger;word-spacing:200px;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse:collapse;
+}
+th, td{
+    background-color: #8471867d;
+}
+table, th, td{
+    border: 1px solid black;
+}
